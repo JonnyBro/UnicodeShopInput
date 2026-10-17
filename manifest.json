@@ -1,7 +1,7 @@
 {
-	"name": "UnicodeShopInput",
+	"name": "UnicodeShopInput_Fixed",
 	"version_number": "1.5.2",
-	"website_url": "",
+	"website_url": "https://github.com/JonnyBro/UnicodeShopInput",
 	"description": "Fixed version of AbyssLasea's mod. Allows to type in search boxes in Unicode (Russian, Ukrainian, etc)",
 	"dependencies": [
 		"Thunderstore-unreal_shimloader-1.1.7"
